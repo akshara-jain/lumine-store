@@ -1,0 +1,18 @@
+packages:
+  "framer-motion": "For premium page transitions and scroll animations"
+images:
+  - path: "artifacts/lumine-store/public/images/hero-bg.png"
+    description: "Editorial luxury skincare campaign, soft warm light, natural textures, ivory and soft mauve tones, abstract silk or soft skin texture"
+    aspect_ratio: "16:9"
+  - path: "artifacts/lumine-store/public/images/about-image.png"
+    description: "Minimalist skincare bottles on a marble pedestal, warm lighting, elegant luxury aesthetic"
+    aspect_ratio: "4:3"
+  - path: "artifacts/lumine-store/public/images/collection-face.png"
+    description: "Splash of hydrating face serum, water texture, clean luxury aesthetic, warm tones"
+    aspect_ratio: "3:4"
+  - path: "artifacts/lumine-store/public/images/collection-body.png"
+    description: "Rich body cream smear, thick luxurious texture, warm cream background"
+    aspect_ratio: "3:4"
+  - path: "artifacts/lumine-store/public/images/collection-sets.png"
+    description: "Luxurious gift box packaging for skincare, elegant ribbons, warm lighting"
+    aspect_ratio: "3:4"
